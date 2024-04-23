@@ -3,6 +3,8 @@ An OTT platform powered by ChatGPT technology.
 
 - Created React App 
 - Configured Tailwind CSS
+- Header
+- Login Form
 
 # Features
 - Login/ Signup Page

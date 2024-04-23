@@ -1,11 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="App text-3xl text-green-800 font-bold">
-      GPT Flix
-    </div>
+      <Body/>
   );
 }
 
